@@ -1,0 +1,6 @@
+Aim: Design an automatic night lamp.
+Apparatus: Arduino, LED’s, variable resistance, wires, Breadboard, Push Button
+Circuit Diagram
+
+Basics of Electrical & Electronics Engineering
+
